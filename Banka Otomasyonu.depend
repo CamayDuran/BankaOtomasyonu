@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558648468 source:c:\users\çamay\desktop\banka otomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1558648470 source:c:\users\pc\desktop\banka otomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
